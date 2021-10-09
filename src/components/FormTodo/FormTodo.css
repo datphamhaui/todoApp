@@ -1,0 +1,21 @@
+.FormTodo {
+}
+label {
+  display: block;
+  text-align: left;
+}
+/* #name {
+  width: 26.25em;
+  height: 1.875em;
+  border-radius: 5px;
+  border: 1px solid #cecece;
+}
+
+#description {
+  width: 26.25em;
+  height: 7.813em;
+} */
+
+.btn-success {
+  width: 100%;
+}
