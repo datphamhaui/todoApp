@@ -9,7 +9,7 @@ const BulkAction = () => {
     <div
       className={`bg-secondary d-flex align-items-center justify-content-between p-3 `}
     >
-      <div>Bulk Action</div>
+      <div>Bulk Actionnnnnnnnnnnnnnnnnn</div>
       <div>
         <button type="button" className="btn btn-primary m-1">
           Done
