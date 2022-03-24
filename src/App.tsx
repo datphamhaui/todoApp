@@ -14,6 +14,7 @@ function App() {
     <div className="row ">
       <div className="col-5 border">
         <h1>New Task</h1>
+        <h1>New Task</h1>
         <FormTodo value="Add" />
       </div>
       <div className="col-7 border">

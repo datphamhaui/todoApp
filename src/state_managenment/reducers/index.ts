@@ -5,7 +5,7 @@ const rootReducer = combineReducers({
   todoReducer,
 });
 
-// console.log(rootReducer);
+console.log({ rootReducer });
 
 export default rootReducer;
 
